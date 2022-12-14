@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\UE5\\FallGuys\\Source\\FallGuys\\FallGuys.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE5\\FallGuys\\.vscode\\compileCommands_Default\\FallGuys.247.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5\\FallGuys\\Source\\FallGuys\\FallGuys.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE5\\FallGuys\\.vscode\\compileCommands_Default\\FallGuys.247.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5\\FallGuys\\Source\\FallGuys\\FallGuys.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE5\\FallGuys\\.vscode\\compileCommands_Default\\FallGuys.247.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5\\FallGuys\\Source\\FallGuys\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE5\\FallGuys\\.vscode\\compileCommands_Default\\FallGuys.247.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5\\FallGuys\\Source\\FallGuys\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE5\\FallGuys\\.vscode\\compileCommands_Default\\FallGuys.247.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
